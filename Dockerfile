@@ -1,2 +1,2 @@
-FROM python:3.8-slim
-RUN echo "Hello from virus injected ubuntu image"
+FROM ubuntu:latest
+RUN echo "Hello from virus inubuntu image"
